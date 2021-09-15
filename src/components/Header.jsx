@@ -6,13 +6,13 @@ class Header extends Component {
     return (
       <header>
         <nav>
-          <ul class="w50 left text-letft">
+          <ul className="w50 left text-letft">
             <Link to="https://github.com/juliocamposmota"> GitHub </Link>
             <Link to="https://www.behance.net/juliomotacampos"> Behance </Link>
             <Link to="https://www.linkedin.com/in/juliomotacampos"> LinkedIn </Link>
           </ul>
 
-          <ul class="w50 right text-right">
+          <ul className="w50 right text-right">
             <Link to="/"> Home </Link>
             <Link to="/sobre"> Sobre </Link>
             <Link to="/habilidades"> Habilidade </Link>
@@ -20,11 +20,11 @@ class Header extends Component {
           </ul>
         </nav>
 
-        <section class="hero-stage">
+        <section className="hero-stage">
           <h1>Júlio Mota Campos</h1>      
           <h2>Desenvolvedor Web</h2>
 
-          <div class="botao">
+          <div className="botao">
             <a href="#sobre">START</a>
           </div>
         </section>
