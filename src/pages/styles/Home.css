@@ -1,0 +1,10 @@
+.bg-hero {
+  background-image: url('../../images/bg-hero.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  font-size: 200px;
+}
