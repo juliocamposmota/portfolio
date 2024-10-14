@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 
 class Header extends Component {
   render() {
@@ -9,30 +8,13 @@ class Header extends Component {
           <div className="container justify-content-center">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <Link className="nav-link" to="https://github.com/juliocamposmota">GitHub</Link>
+                <a className="nav-link" href="https://github.com/juliocamposmota" target="_blank" rel="noopener noreferrer">GitHub</a>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="https://www.behance.net/juliomotacampos">Behance</Link>
+                <a className="nav-link" href="https://www.behance.net/juliomotacampos" target="_blank" rel="noopener noreferrer">Behance</a>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="https://www.linkedin.com/in/juliomotacampos">Linkedin</Link>
-              </li>
-            </ul>
-          </div>
-
-          <div className="container justify-content-center">
-            <ul className="navbar-nav">
-              <li className="nav-item">
-                <Link className="nav-link" to="/">Home</Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/">Sobre</Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/">Habilidades</Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/">Projetos</Link>
+                <a className="nav-link" href="https://www.linkedin.com/in/juliomotacampos" target="_blank" rel="noopener noreferrer">Linkedin</a>
               </li>
             </ul>
           </div>
