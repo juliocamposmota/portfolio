@@ -23,7 +23,7 @@ class Home extends Component {
         <footer className="mt-auto mb-5 p-3">
           <p>
             Feito com muito carinho por mim mesmo :)
-            <Link to="https://www.instagram.com/juliomotac/" className="text-white ms-1">@juliomotac</Link>
+            <a href="https://www.instagram.com/juliomotac/" className="text-white ms-1" target="_blank" rel="noopener noreferrer">@juliomotac</a>
           </p>
         </footer>
       </div>
