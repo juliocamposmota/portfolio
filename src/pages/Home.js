@@ -28,7 +28,7 @@ class Home extends Component {
               <img className="card-img-top img-size" src={projectOne} alt="Project Gabrielle de Lima Arquitetura" />
 
               <div className="card-body">
-                <p class="card-text">Gabrielle de Lima Arquitetura e Interiores</p>
+                <p className="card-text">Gabrielle de Lima Arquitetura e Interiores</p>
                 <a className="btn btn-outline-dark btn-sm rounded-3 w-100" href="https://gabrielledelima.arq.br/" target="_blank" rel="noopener noreferrer">VISITE</a>
               </div>
             </div>
