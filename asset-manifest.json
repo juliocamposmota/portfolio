@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.41342e34.chunk.css",
-    "main.js": "/portfolio/static/js/main.b935c9d5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b935c9d5.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.edb956fc.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.edb956fc.js.map",
-    "static/js/2.32e39a4d.chunk.js": "/portfolio/static/js/2.32e39a4d.chunk.js",
-    "static/js/2.32e39a4d.chunk.js.map": "/portfolio/static/js/2.32e39a4d.chunk.js.map",
-    "static/js/3.95449c7b.chunk.js": "/portfolio/static/js/3.95449c7b.chunk.js",
-    "static/js/3.95449c7b.chunk.js.map": "/portfolio/static/js/3.95449c7b.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.607da33e.chunk.css",
+    "main.js": "/portfolio/static/js/main.8620a8aa.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8620a8aa.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8483ac75.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8483ac75.js.map",
+    "static/js/2.bf6e0efc.chunk.js": "/portfolio/static/js/2.bf6e0efc.chunk.js",
+    "static/js/2.bf6e0efc.chunk.js.map": "/portfolio/static/js/2.bf6e0efc.chunk.js.map",
+    "static/js/3.11f98340.chunk.js": "/portfolio/static/js/3.11f98340.chunk.js",
+    "static/js/3.11f98340.chunk.js.map": "/portfolio/static/js/3.11f98340.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.41342e34.chunk.css.map": "/portfolio/static/css/main.41342e34.chunk.css.map",
-    "static/js/2.32e39a4d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.32e39a4d.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/portfolio/static/media/bg-hero.0d8f8704.png"
+    "static/css/main.607da33e.chunk.css.map": "/portfolio/static/css/main.607da33e.chunk.css.map",
+    "static/js/2.bf6e0efc.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bf6e0efc.chunk.js.LICENSE.txt",
+    "static/media/app-archieoffice.09da86ab.png": "/portfolio/static/media/app-archieoffice.09da86ab.png",
+    "static/media/behance.80a01d62.svg": "/portfolio/static/media/behance.80a01d62.svg",
+    "static/media/Home.css": "/portfolio/static/media/bg-hero.0d8f8704.png",
+    "static/media/github.a2dcecaa.svg": "/portfolio/static/media/github.a2dcecaa.svg",
+    "static/media/linkedin.48c57878.svg": "/portfolio/static/media/linkedin.48c57878.svg",
+    "static/media/website-gabrielledelima.48553dd2.png": "/portfolio/static/media/website-gabrielledelima.48553dd2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.edb956fc.js",
-    "static/js/2.32e39a4d.chunk.js",
-    "static/css/main.41342e34.chunk.css",
-    "static/js/main.b935c9d5.chunk.js"
+    "static/js/runtime-main.8483ac75.js",
+    "static/js/2.bf6e0efc.chunk.js",
+    "static/css/main.607da33e.chunk.css",
+    "static/js/main.8620a8aa.chunk.js"
   ]
 }
