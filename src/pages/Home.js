@@ -23,7 +23,7 @@ class Home extends Component {
         <section className="d-flex flex-column justify-content-center">
           <h2 className='mb-5'>Projetos</h2>
 
-          <div className="d-flex flex-sm-column flex-lg-row justify-content-center align-items-center mt-5 gap-5 px-5">
+          <div className="d-flex flex-column flex-md-row flex-lg-row justify-content-center align-items-center mt-5 gap-5 px-5">
             <div className="card text-dark">
               <img className="card-img-top img-size" src={projectOne} alt="Project Gabrielle de Lima Arquitetura" />
 
