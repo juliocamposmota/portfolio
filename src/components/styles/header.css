@@ -1,0 +1,12 @@
+@media (min-width: 320px) {
+  .navbar-expand-md .navbar-nav {
+      flex-direction: row;
+  }
+}
+
+@media (min-width: 320px) {
+  .navbar-expand-md .navbar-nav .nav-link {
+      padding-right: .5rem;
+      padding-left: .5rem;
+  }
+}
